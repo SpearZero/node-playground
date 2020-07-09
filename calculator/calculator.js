@@ -42,7 +42,7 @@ const mul = (a, b) => {
 }
 
 const calculator = (a, b, callback) => {
-    console.log(callback(parseInt(a), parseInt(b)));
+    return callback(parseInt(a), parseInt(b));
 }
 
 let result = "Error";
@@ -60,3 +60,5 @@ switch (findOp) {
         result = calculator(num1, num2, div);
         break;
 }
+
+console.log(`Result = ${result}`);
