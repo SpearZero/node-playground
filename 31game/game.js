@@ -1,4 +1,10 @@
-const { argv } = require('yargs');
+const reachTarget = (target, playerInput = 0) => {
+    target -= playerInput;
+    console.log(playerInput);
+    return target === 0 ? true : false;
+}
 
-// if input reach the target then lose
-console.log(argv.target);
+module.exports = {
+    game,
+    computer
+}
