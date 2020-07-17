@@ -3,7 +3,7 @@
 
 위의 강의 중 두 번째 프로젝트인 weather-app을 실습
 - mapbox의 api를 이용해서 지역의 위치 정보를 얻어옴
-- weatherstack의 api의 mapbox의 위치 정보를 입력해서 날씨 정보를 얻어옴
+- weatherstack api에 mapbox의 위치 정보를 입력해서 날씨 정보를 얻어옴
 
 > https://github.com/andrewjmead/node-course-v3-code/tree/master/weather-app
 
