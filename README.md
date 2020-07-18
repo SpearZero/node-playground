@@ -11,7 +11,7 @@
 - API와 커맨드라인 입력을 이용한 날씨 정보 얻기
 
 ### web-server
-- [web-server](./web-server/READEME.md)
+- [web-server](./web-server/README.md)
 - express를 이용하여 weather-app을 웹 서버에서 실행시키기
 
 ### 31 Game
