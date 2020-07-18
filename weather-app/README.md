@@ -1,5 +1,6 @@
-> https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
+## weather-app
 
+> https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
 
 위의 강의 중 두 번째 프로젝트인 weather-app을 실습
 - mapbox의 api를 이용해서 지역의 위치 정보를 얻어옴
