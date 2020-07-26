@@ -18,6 +18,10 @@
 - [task-manager](./task-manager/)
 - express와 mongodb를 이용해 REST API 서버 만들기 
 
+### chat-app
+- [chat-app](./chat-app/)
+- socket.io를 이용한 채팅서버 만들기
+
 ### 31 Game
 - [31GAME](./31game/)
 - 커맨드 라인 입력을 통한 게임
